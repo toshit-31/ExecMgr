@@ -1,0 +1,4 @@
+*.vs
+websocketpp
+websocketpp/*
+*.pdb
